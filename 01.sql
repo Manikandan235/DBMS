@@ -1,4 +1,4 @@
-create table employee(empno number primary key,empname varchar2(20),designation varchar2(30),gender varchar2(6),age number,dojdate,salary number);
+create table employee(empno number primary key,empname varchar2(20),designation varchar2(30),gender varchar2(6),age number,doj date,salary number);
 
 desc employee;
 
